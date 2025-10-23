@@ -1,6 +1,6 @@
 # Eporedix
 
-[![Logo OpenAI](https://www.lagrandeinvasione.it/wp-content/uploads/2020/12/Logo-GI_Retina-800x293.png)](https://openai.com)
+[![Logo OpenAI](https://www.lagrandeinvasione.it/wp-content/uploads/2020/12/Logo-GI_Retina-800x293.png)]
 
 
 ---
